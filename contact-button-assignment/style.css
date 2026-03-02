@@ -1,0 +1,38 @@
+/*
+MY COLOR PALETTE
+Green - #5B7553
+Cream - #E6E1C5
+Brown - #513B3C
+Dark red- #500902
+Purple - #ADAABF
+*/
+
+body {
+    background-color: #5b7553;
+    text-align: center;
+}
+
+button {
+    background-color: #e6e1c5;
+    color: #513b3c;
+    font-family: "Times New Roman", Times, serif;
+    width: 150px;
+    padding: 7px;
+    font-weight: bold;
+    margin-top: 30px;
+    border: none;
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: #adaabf;
+}
+
+h1 {
+    font-family: "PT Sans", sans-serif;
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    font-weight: 250;
+}
