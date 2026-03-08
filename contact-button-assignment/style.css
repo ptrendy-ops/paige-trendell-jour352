@@ -22,6 +22,7 @@ button {
     margin-top: 30px;
     border: none;
     border-radius: 6px;
+    font-size: 18px;
 }
 
 button:hover {
@@ -30,6 +31,7 @@ button:hover {
 
 h1 {
     font-family: "PT Sans", sans-serif;
+    letter-spacing: 1px;
 }
 
 h2 {
