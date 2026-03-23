@@ -1,0 +1,65 @@
+/* 
+MY COLOR PALETTE
+TAN - #EFE9E4
+NAVY BLUE - #0E1C36
+BROWN - #5B4C36
+LIGHT GREEN - #909580
+LAVENDER - #80727B
+*/
+
+#Image {
+    width: 100%;
+    border: 5px solid #5b4c36;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+body {
+    background-color: #efe9e4;
+}
+
+#Header {
+    text-align: center;
+    padding: 8px;
+    padding-bottom: 4px;
+    background-color: #80727b;
+    font-family: "Arimo", sans-serif;
+    font-weight: 100;
+    color: #efe9e4;
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: "Cormorant Garamond", serif;
+    text-transform: uppercase;
+    font-size: 70px;
+    color: #0e1c36;
+}
+
+h2 {
+    font-family: "Cormorant Garamond", serif;
+    text-transform: uppercase;
+    font-size: 50px;
+    color: #0e1c36;
+}
+
+#Title {
+    color: #5b4c36;
+    padding-bottom: 70px;
+    font-size: 32px;
+}
+
+#button {
+    width: 165px;
+    background-color: #909580;
+    border-radius: 25px;
+    border: none;
+    padding: 15px;
+    text-transform: uppercase;
+    font-family: "Arimo", sans-serif;
+    color: #efe9e4;
+}
+
+row.job {
+    padding-top: 60px;
+}
