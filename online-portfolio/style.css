@@ -30,6 +30,14 @@ body {
     text-decoration: underline;
 }
 
+a {
+    color:#efe9e4
+}
+
+a:hover {
+    color: #909580
+}
+
 h1 {
     font-family: "Cormorant Garamond", serif;
     text-transform: uppercase;
