@@ -7,19 +7,18 @@ LIGHT GREEN - #909580
 LAVENDER - #80727B
 */
 
-    
 #Image {
     width: 100%;
     border: 5px solid #5b4c36;
     margin-top: 20px;
-    margin-bottom: 35px;
+    margin-bottom: 45px;
 }
 
 body {
     background-color: #efe9e4;
 }
 
-#Header {
+#header {
     text-align: center;
     padding: 8px;
     padding-bottom: 4px;
@@ -31,11 +30,11 @@ body {
 }
 
 a {
-    color:#efe9e4
+    color: #efe9e4;
 }
 
 a:hover {
-    color: #909580
+    color: #909580;
 }
 
 h1 {
@@ -53,7 +52,7 @@ h2 {
     padding-bottom: 10px;
 }
 
-#Title {
+#title {
     color: #5b4c36;
     padding-bottom: 70px;
     font-size: 32px;
@@ -72,13 +71,49 @@ h2 {
 
 p {
     padding-bottom: 30px;
+    color: #5b4c36;
+    margin-left: 20px;
 }
-row.job {
-    padding-top: 60px;
+h5 {
+    color: #5b4c36;
+    margin-left: 20px;
 }
 
-@media (min-width:576px) {
-    h1{
-        font-size:70px;
+#experience {
+    padding-bottom: 30px;
+    margin-left: 20px;
+}
+
+#skills {
+    text-align: center;
+}
+
+ul {
+    line-height: 3;
+    color: #5b4c36;
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+#education {
+    padding-bottom: 30px;
+    padding-top: 10px;
+    text-align: right;
+    margin-right: 20px;
+}
+
+#degrees {
+    text-align: right;
+    margin-right: 20px;
+}
+
+hr {
+    border: 5px solid #80727b;
+}
+
+@media (min-width: 576px) {
+    h1 {
+        font-size: 70px;
     }
 }
