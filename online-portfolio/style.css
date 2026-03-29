@@ -69,6 +69,10 @@ h2 {
     color: #efe9e4;
 }
 
+#button:hover {
+    color:#80727b;    
+}
+
 #experience {
     padding-bottom: 30px;
     margin-left: 20px;
@@ -93,6 +97,10 @@ p {
     padding-bottom: 30px;
     color: #5b4c36;
 }
+    
+#sbs_photo {
+    width: 200px;    
+    }
 #skills {
     text-align: center;
 }
