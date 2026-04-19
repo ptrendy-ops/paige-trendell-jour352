@@ -1,0 +1,26 @@
+#article {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1 {
+    font-family: "Times New Roman", serif;
+    font-size: 70px;
+    padding-bottom: 15px;
+}
+
+h4 {
+    padding-bottom: 20px;
+    font-family: "Verdana", sans-serif;
+    font-style: italic;
+}
+
+h3,
+p {
+    font-family: "Verdana", sans-serif;
+}
+
+h3 {
+    text-transform: uppercase;
+}
