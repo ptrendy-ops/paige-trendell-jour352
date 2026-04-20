@@ -1,0 +1,38 @@
+@media screen {
+    h1 {
+        font-family: "Noto Serif", serif;
+        font-weight: bold;
+        font-size: 55px;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    #headline {
+        background-color: #545454;
+        color: white;
+    }
+
+    h3 {
+        font-family: "Chivo", sans-serif;
+        font-weight: 100;
+        font-size: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+@media (min-width:576px) {
+    h1 {
+        font-size: 55px;
+    }
+}
+
+@media (min-width:786px) {
+    h1 {
+        font-size: 80px;
+    }
+}
