@@ -8,7 +8,11 @@
     }
 
     img {
-        width: 100%;
+        width: 75%;
+    }
+    
+    #image_section {
+        background-color: #545454;
     }
 
     #headline {
@@ -22,6 +26,14 @@
         font-size: 30px;
         padding-left: 15px;
         padding-right: 15px;
+    }
+    
+    p {
+        font-family: "Chivo", sans-serif;
+    }
+    
+    #date {
+        font-style: italic;
     }
 }
 
