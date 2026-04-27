@@ -13,7 +13,7 @@
         display: block;
         margin: auto;
     }
-    
+
     #image_section {
         background-color: #545454;
     }
@@ -23,43 +23,57 @@
         color: white;
     }
 
-    h3 {
+    #title_description {
         font-family: "Chivo", sans-serif;
         font-weight: 100;
         font-size: 30px;
         padding-left: 15px;
         padding-right: 15px;
     }
-    
+
     p {
         font-family: "Chivo", sans-serif;
     }
-    
+
     #date {
         font-style: italic;
         padding-left: 15px;
     }
-    
+
     #author {
         padding-left: 15px;
         padding-top: 20px;
+        font-weight: bold;
     }
-    
+
     #posters_img {
         display: block;
         margin: auto;
         width: 100%;
     }
     
+    #quote {
+        font-family: "Noto Serif", serif;
+        padding-bottom: 20px;
+
+    }
+    #quote_source {
+        font-family: "Noto Serif", serif;
+        padding-bottom: 30px;
+    }
+    
+    .red {
+        color: red;
+    }
 }
 
-@media (min-width:576px) {
+@media (min-width: 576px) {
     h1 {
         font-size: 55px;
     }
 }
 
-@media (min-width:786px) {
+@media (min-width: 786px) {
     h1 {
         font-size: 80px;
     }
