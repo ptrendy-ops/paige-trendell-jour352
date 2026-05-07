@@ -1,6 +1,6 @@
 @media screen {
     h1 {
-        font-family: "Noto Serif", serif;
+        font-family: "Anonymous Pro";
         font-weight: bold;
         font-size: 55px;
         text-align: center;
@@ -15,11 +15,10 @@
     }
 
     #image_section {
-        background-color: #545454;
+        background-color: #373737;
     }
 
     #headline {
-        background-color: #545454;
         color: white;
     }
 
@@ -38,12 +37,23 @@
     #date {
         font-style: italic;
         padding-left: 15px;
+        text-align: center;
+        font-family: "Anonymous Pro";
     }
 
     #author {
         padding-left: 15px;
         padding-top: 20px;
         font-weight: bold;
+        text-align: center;
+        font-family: "Anonymous Pro";
+    }
+    
+    h2 {
+       color: #bd0000;
+        font-family: "Chivo", sans-serif;
+        font-size: 65px;
+        padding-top: 15px;
     }
 
     #posters_img {
@@ -63,7 +73,7 @@
     }
     
     .red {
-        color: red;
+        color: #bd0000;
     }
 }
 
