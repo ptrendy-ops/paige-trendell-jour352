@@ -29,6 +29,10 @@
         padding-left: 15px;
         padding-right: 15px;
     }
+    
+    #paper_edge {
+        float: left;
+    }
 
     p {
         font-family: "Chivo", sans-serif;
@@ -94,6 +98,14 @@
     
     .red {
         color: #bd0000;
+    }
+    
+    #mexico_map {
+        margin: center;
+    }
+    
+    #womens_march {
+        width: 100%
     }
 }
 
