@@ -60,15 +60,36 @@
         display: block;
         margin: auto;
         width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
     
-    #quote {
-        font-family: "Noto Serif", serif;
-        padding-bottom: 20px;
-
+    .caption {
+    font-size: 12.5px;
+    font-family: "Anonymous Pro";
     }
+    
+    #wilcox_img {
+        width: 50%;
+        float: right;
+        object-position: bottom;
+        padding-right: 7px;
+    }
+    
+    #wilcox_caption {
+        float: right;
+        width: 50%
+    }
+
+    
+    #quote {
+        font-family: "Anonymous Pro";
+        padding-bottom: 30px;
+        font-weight: bold;
+    }
+    
     #quote_source {
-        font-family: "Noto Serif", serif;
+        font-family: "Anonymous Pro";
         padding-bottom: 30px;
     }
     
