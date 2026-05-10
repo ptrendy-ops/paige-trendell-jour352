@@ -100,12 +100,14 @@
         color: #bd0000;
     }
     
+    .border
+    
     #mexico_map {
-        margin: center;
+        
     }
     
     #womens_march {
-        width: 100%
+        width: 100%;
     }
 }
 
