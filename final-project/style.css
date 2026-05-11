@@ -29,7 +29,7 @@
         padding-left: 15px;
         padding-right: 15px;
     }
-    
+
     #paper_edge {
         float: left;
     }
@@ -52,9 +52,9 @@
         text-align: center;
         font-family: "Anonymous Pro";
     }
-    
+
     h2 {
-       color: #bd0000;
+        color: #bd0000;
         font-family: "Chivo", sans-serif;
         font-size: 65px;
         padding-top: 15px;
@@ -67,45 +67,50 @@
         padding-top: 10px;
         padding-bottom: 10px;
     }
-    
+
     .caption {
-    font-size: 12.5px;
-    font-family: "Anonymous Pro";
+        font-size: 12.5px;
+        font-family: "Anonymous Pro";
     }
-    
+
     #wilcox_img {
         width: 50%;
         float: right;
-        padding-right: 7px;
-    }
-    
-    #wilcox_caption {
-        float: right;
-        width: 50%
+        padding-left: 5px;
     }
 
-    
+    #wilcox_caption {
+        float: right;
+        width: 50%;
+        padding-bottom: 5px;
+    }
+
+
     #quote {
         font-family: "Anonymous Pro";
         padding-bottom: 30px;
+        padding-top: 10px;
         font-weight: bold;
+        width: 75%;
+        margin: auto;
     }
-    
+
     #quote_source {
         font-family: "Anonymous Pro";
         padding-bottom: 30px;
+        width: 75%;
+        margin: auto;
     }
-    
+
     .red {
         color: #bd0000;
     }
     
-    .border
-    
-    #mexico_map {
-        
+    #map_caption {
+        font-size: 13px;
+        text-align: center;
     }
-    
+
     #womens_march {
         width: 100%;
     }
