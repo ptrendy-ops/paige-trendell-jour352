@@ -80,11 +80,10 @@
     }
 
     #wilcox_caption {
-        float: right;
         width: 50%;
+        float: right;
         padding-bottom: 5px;
     }
-
 
     #quote {
         font-family: "Anonymous Pro";
@@ -105,7 +104,7 @@
     .red {
         color: #bd0000;
     }
-    
+
     #map_caption {
         font-size: 13px;
         text-align: center;
